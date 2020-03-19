@@ -1,0 +1,2 @@
+include ':app', ':librarycalculadora'
+rootProject.name='MyAppTest'
